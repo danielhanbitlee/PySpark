@@ -1,2 +1,2 @@
 # PySpark
-Simple implementations of multiple linear regression and logistic regression using pyspark.
+Using pyspark.ml and pyspark.sql, I implemented multiple linear regression and logistic regression on data.
